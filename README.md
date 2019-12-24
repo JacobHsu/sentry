@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 `$ npx create-react-app sentry`
 
+# sentry
+
+https://sentry.io/onboarding/jacobhsu/get-started/
+
+[React](https://docs.sentry.io/platforms/javascript/react/?_ga=2.95713754.779126548.1577180354-569775754.1560822416)
+
 ## Available Scripts
 
 In the project directory, you can run:
